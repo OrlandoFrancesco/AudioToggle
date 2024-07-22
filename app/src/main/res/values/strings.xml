@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AudioToggle</string>
+    <string name="title">Audio</string>
+    <string name="button">Permissions</string>
+    <string name="silent">Mute</string>
+    <string name="vibration">Vibration</string>
+    <string name="normal">Sound</string>
+    <string name="permissions_granted">Permissions already granted!</string>
+</resources>
